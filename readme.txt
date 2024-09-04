@@ -1,7 +1,3 @@
-readme
-
-bianca palazzo marquez -50122
-
 TP2- Desarrollo de Software
 Este repositorio contiene el código HTML y CSS para el Trabajo Práctico de Desarrollo de Software.
 
@@ -39,6 +35,5 @@ o	Transformaciones en animaciones para mover elementos en la página.
 Ejecución
 
 Para ejecutar este proyecto, sigue estos pasos:
-
 1-	Clona el repositorio: https://github.com/bianpalazzo/TP2-CSS.git 
 2-	Ejecútalo. 
